@@ -20,17 +20,14 @@ How did Telegeography make the Submarine Cable Map?
 
 [TeleGeography](http://www.telegeography.com) draws the cable routes and plots the landing points with [Adobe Illustrator](https://www.adobe.com/products/illustrator.html). Using [Avenza's MAPublisher](https://www.avenza.com/mapublisher) plug-in, which works with Illustrator, two sets of data are exported as GeoJSON: the cable routes (as MultiLineStrings) and landing points (as Points).
 
-This interactive map Javascript was created using the [RedwoodJS](https://redwoodjs.com/) web application framework.  The Javascript for the map was written in-house at TeleGeography.
+This interactive map Javascript was created by Telegeography using the [RedwoodJS](https://redwoodjs.com/) web application framework.  The Javascript for the map was written in-house at TeleGeography.
 
 How can I download the dataset?
 --------------------------------------------------
 
-Below are links to the datasets used for the [Submarine Cable Map](https://www.submarinecablemap.com).
-
-__Submarine Cables:__
+__Undersea Cables:__
 
 * [Undersea Cables GeoJSON](https://raw.githubusercontent.com/stevesong/open_undersea_cable_map/main/web/public/api/v3/cable/cable-geo.json)
-*
 * [Undersea Cable Data](https://github.com/stevesong/open_undersea_cable_map/tree/main/web/public/api/v3/cable)
 
 __Landing Points:__
@@ -42,9 +39,11 @@ __Landing Points:__
 License
 ------------------------
 
-This map and underlying data was made available under the [Creative Commons License: Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)](https://creativecommons.org/licenses/by-nc-sa/3.0/) and is re-published here under the same.
+This map and underlying data was originally made available under the [Creative Commons License: Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)](https://creativecommons.org/licenses/by-nc-sa/3.0/) and is re-published here under the same.
 
 
 Questions? Corrections?
 ------------------------
-[Steve Song](https://manypossibilities.net/contact/).  For more information on Telegeography's [Submarine Cable Map](https://www.submarinecablemap.com/) contact [cablemap@telegeography.com](mailto:cablemap@telegeography.com)
+[Steve Song](https://manypossibilities.net/contact/)
+
+For more information on Telegeography's [Submarine Cable Map](https://www.submarinecablemap.com/) contact [cablemap@telegeography.com](mailto:cablemap@telegeography.com)
