@@ -9,13 +9,13 @@ How can I download the dataset?
 
 __Undersea Cables:__
 
-* [Undersea Cables GeoJSON](https://raw.githubusercontent.com/stevesong/open_undersea_cable_map/main/cable-geo.json)
-* [Undersea Cable Datasets](https://github.com/stevesong/open_undersea_cable_map/tree/main/cable)
+* [Undersea Cables GeoJSON](https://raw.githubusercontent.com/stevesong/open_undersea_cable_map/main/cable/cable-geo.json)
+* [Undersea Cable Individual Files](https://github.com/stevesong/open_undersea_cable_map/tree/main/cable)
 
 __Landing Points:__
 
 * [Landing Point GeoJSON](https://raw.githubusercontent.com/stevesong/open_undersea_cable_map/main/landing-point/landing-point-geo.json)
-* [Landing Point Datasets](https://github.com/stevesong/open_undersea_cable_map/tree/main/landing-point)
+* [Landing Point Individual Files](https://github.com/stevesong/open_undersea_cable_map/tree/main/landing-point)
 
 
 License
