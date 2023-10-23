@@ -1,22 +1,5 @@
-.idea
-.DS_Store
 .env
-.netlify
-.redwood
-dev.db
-dist-babel
-yarn-error.log
-web/public/mockServiceWorker.js
-/node_modules/
-/web/node_modules/
-/api/node_modules/
-._*
 /log/
-Capfile
-Gemfile
-Gemfile.lock
-/config/
-.ruby-gemset
-.ruby-version
+
 
 
